@@ -40,7 +40,10 @@ Repositório com os meus estudos da linguagem Python
    - List (Listas)
    - Tuple (Tuplas)
    - Dict (Dicionários)
- - **Classes**
+ - **Classes:**
+   - Propriedades
+   - Métodos
+   - Construtor
 
 ## Motivação
 
