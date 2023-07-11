@@ -45,6 +45,15 @@ Repositório com os meus estudos da linguagem Python
    - Métodos
    - Construtor
 
+**O que é fundamental para ser um programador Python de alto nível**
+
+ - Conhecer sobre as boas práticas
+ - Saber resolver problemas
+ - Ser criativo
+ - Ter uma boa comunicação
+ - Aprender rapidamente
+ - Trabalhar de forma colaborativa
+
 ## Motivação
 
 Aumentar o conhecimento dessa linguagem de programação que está sendo muito difundida recentemente.
