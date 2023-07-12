@@ -41,9 +41,11 @@ Repositório com os meus estudos da linguagem Python
    - Tuple (Tuplas)
    - Dict (Dicionários)
  - **Classes:**
-   - Propriedades
-   - Métodos
-   - Construtor
+   - Nome da classe
+   - Escopo
+   - Atributos ou propriedades
+   - Método construtor
+   - Criação de métodos
 
 **O que é fundamental para ser um programador Python de alto nível**
 
@@ -58,13 +60,12 @@ Repositório com os meus estudos da linguagem Python
 
 Aumentar o conhecimento dessa linguagem de programação que está sendo muito difundida recentemente.
 
-## Descrição do projeto
+## Estudar
 
-...
-
- ## Instalação e execução do projeto
-
- ...
+ - **Como agendar tarefas no Python** -> https://www.youtube.com/watch?v=PAnrHMQBB-Y&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=18
+ - **Modo interativo do Python** -> https://www.youtube.com/watch?v=Xyy0AHvfoXE&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=22
+ - **Como gerar um executável** ->  https://www.youtube.com/watch?v=Ii0TCI_FP48&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=24
+ - **API** -> https://www.youtube.com/watch?v=FBLAV1SbJFk&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=25
 
  ## Licença
 
