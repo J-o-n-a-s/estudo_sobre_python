@@ -56,6 +56,11 @@ Repositório com os meus estudos da linguagem Python
  - Aprender rapidamente
  - Trabalhar de forma colaborativa
 
+**Interressante para explorar com Python**
+  - https://picsum.photos/1024/768 -> Cada vez que executa esse link é apresentada uma imagem aleatório porém com as dimensões inseridas. Neste exemplo, 1024x768.
+  - https://picsum.photos/1024/768?grayscale -> A mesma descrição de cima, porém em tons de cinza.
+  - https://picsum.photos/1024/768?blur -> A mesma descrição da primeira, porém as imagens vem borradas. Pode se definir o quanto a imagem será borrada, basta colocar um valor de 1 à 10 da segunte forma ...?blur=X, sendo que o X é o número.
+
 ## Motivação
 
 Aumentar o conhecimento dessa linguagem de programação que está sendo muito difundida recentemente.
@@ -66,6 +71,7 @@ Aumentar o conhecimento dessa linguagem de programação que está sendo muito d
  - **Modo interativo do Python** -> https://www.youtube.com/watch?v=Xyy0AHvfoXE&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=22
  - **Como gerar um executável** ->  https://www.youtube.com/watch?v=Ii0TCI_FP48&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=24
  - **API** -> https://www.youtube.com/watch?v=FBLAV1SbJFk&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=25
+ - **Design Patterns com Python - O Padrão Strategy** -> https://medium.com/@hudsonbrendon/design-patterns-com-python-o-padr%C3%A3o-strategy-3cc56f96c05c
 
  ## Licença
 
