@@ -18,6 +18,17 @@ Repositório com os meus estudos da linguagem Python
 
 ## Introdução
 
+O Python é:
+
+ - Linguagem de propósito geral;
+ - Fácil e intuitiva;
+ - Multiplataforma;
+ - "Baterias inclusas";
+ - Livre (código aberto);
+ - Programação extremamente organizada;
+ - Orientada a objetos;
+ - Repleto de bibliotecas.
+
 **Passos para o estudo e aprendizado**
 
  - **Estudar sobre lógica de programação**
