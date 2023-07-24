@@ -152,7 +152,23 @@ Considere o valor de um dólar = R$ 4,73 (Data: 24/07/2023)
 
 #### Exercício 011
 
-Crie um programa que leia ...
+Crie um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².
+
+#### Exercício 012
+
+Crie um programa que leia o preço de um produto e mostre o seu novo preço com 5% de desconto.
+
+#### Exercício 013
+
+Crie um programa que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+#### Exercício 014
+
+Crie um programa que leia a temperatura em graus Celsius e converta para uma temperatura em Fahrenheit.
+
+#### Exercício 015
+
+Crie um programa que leia a quantidade de quilometros percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60,00 por dia e R$ 0.15 por quilometro rodado.
 
 ## Licença
 
