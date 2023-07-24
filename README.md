@@ -168,7 +168,7 @@ Crie um programa que leia a temperatura em graus Celsius e converta para uma tem
 
 #### Exercício 015
 
-Crie um programa que leia a quantidade de quilometros percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60,00 por dia e R$ 0.15 por quilometro rodado.
+Crie um programa que leia a quantidade de quilômetros percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60,00 por dia e R$ 0.15 por quilômetro rodado.
 
 ## Licença
 
