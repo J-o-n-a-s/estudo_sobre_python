@@ -106,6 +106,19 @@ Aumentar o conhecimento dessa linguagem de programação que está sendo muito d
  - **API** -> https://www.youtube.com/watch?v=FBLAV1SbJFk&list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_&index=25
  - **Design Patterns com Python - O Padrão Strategy** -> https://medium.com/@hudsonbrendon/design-patterns-com-python-o-padr%C3%A3o-strategy-3cc56f96c05c
 
+## Exercícios
+
+#### Exercício 001
+
+Crie um programa que escreva "Olá, mundo!" na tela.
+
+### Exercício 002
+
+Faça um programa que leia o nome de uma pessoa e mostra uma mensagem de boas-vindas.
+
+### Exercício 003
+
+
  ## Licença
 
  MIT
