@@ -112,13 +112,30 @@ Aumentar o conhecimento dessa linguagem de programação que está sendo muito d
 
 Crie um programa que escreva "Olá, mundo!" na tela.
 
-### Exercício 002
+#### Exercício 002
 
-Faça um programa que leia o nome de uma pessoa e mostra uma mensagem de boas-vindas.
+Crie um programa que leia o nome de uma pessoa e mostra uma mensagem de boas-vindas.
 
-### Exercício 003
+#### Exercício 003
 
+Crie um programa que leia dois números e mostre o valor da soma entre eles.
 
- ## Licença
+#### Exercício 004
+
+Crie um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+#### Exercício 005
+
+Crie um programa que leia um número inteiro e mostre na tela o seu sucesso e seu antecessor.
+
+#### Exercício 006
+
+Crie um programa que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+
+#### Exercício 007
+
+Crie um programa que leia duas notas de um aluno, calcule e mostre a sua média.
+
+## Licença
 
  MIT
