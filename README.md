@@ -136,6 +136,24 @@ Crie um programa que leia um número e mostre o seu dobro, triplo e raiz quadrad
 
 Crie um programa que leia duas notas de um aluno, calcule e mostre a sua média.
 
+#### Exercício 008
+
+Crie um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+
+#### Exercício 009
+
+Crie um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+#### Exercício 010
+
+Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+
+Considere o valor de um dólar = R$ 4,73 (Data: 24/07/2023)
+
+#### Exercício 011
+
+Crie um programa que leia ...
+
 ## Licença
 
  MIT
