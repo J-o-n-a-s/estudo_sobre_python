@@ -170,6 +170,30 @@ Crie um programa que leia a temperatura em graus Celsius e converta para uma tem
 
 Crie um programa que leia a quantidade de quilômetros percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60,00 por dia e R$ 0.15 por quilômetro rodado.
 
+#### Exercício 016
+
+Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
+
+#### Exercício 017
+
+Crie um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
+
+#### Exercício 018
+
+Crie um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+#### Exercício 019
+
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+
+#### Exercício 020
+
+Um professor quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+#### Exercício 021
+
+Crie um programa que abra e reproduza o áudio de um arquivo MP3.
+
 ## Licença
 
  MIT
