@@ -1,0 +1,13 @@
+Manipulando textos
+
+Referência: https://algoritmosempython.com.br/cursos/programacao-python/strings/
+
+Exemplo:
+
+string = 'Jonas' -> Conteúdo da variável string
+inicio = 0 -> Posição do início que deseja mostrar o conteúdo da variável "string". Pode ser um número positivo, None, ou um número negativo
+fim = 6 -> Posição do fim que deseja mostrar o conteúdo da variável "string" (lembrando que não inclui o número e sim o número anterior). Pode ser um número positivo, None, ou um número negativo
+salto = 1 -> Passo que deseja mostrar o conteúdo da variável string (default = 1). Se for 2 será apresentada o conteúdo da variável "string" pulando de 2 em 2 caracteres.
+
+
+print(string[inicio:fim:salto])
