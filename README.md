@@ -180,7 +180,7 @@ Crie um programa que leia o comprimento do cateto oposto e do cateto adjacente d
 
 #### Exercício 018
 
-Crie um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+Crie um programa que leia um ângulo qualquer e mostre na tela o valor do cosseno, seno e tangente desse ângulo.
 
 #### Exercício 019
 
