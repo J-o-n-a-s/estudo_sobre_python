@@ -194,6 +194,51 @@ Um professor quer sortear a ordem de apresentação de trabalhos dos alunos. Fa�
 
 Crie um programa que abra e reproduza o áudio de um arquivo MP3.
 
+#### Exercício 022
+
+Crie um programa que leia o nome completo de uma pessoa e mostre:
+
+  - O nome com todas as letras maiúsculas;
+  - O nome com todas as letras minúsculas;
+  - Quantas letras têm ao todo;
+  - Quantas letras têm sem considerar espaços;
+  - Quantas letras têm o primeiro nome.
+
+#### Exercício 023
+
+Crie um programa que leia um número entre 0 e 9999 e mostre na tela cada um dos dígitos separados. Faça como string e também matematicamente.
+  - Exemplo "1234":
+     - Milhar = 1
+     - Centena = 2
+     - Dezena = 3
+     - Unidade = 4
+
+ #### Exercício 024
+
+Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com "SANTO".
+
+#### Exercício 025
+
+Crie um programa que leia o nome completo de uma pessoa e informe se tem "SILVA" no nome.
+
+#### Exercício 026
+
+Crie um programa que leia uma frase pelo teclado e mostre:
+  - Quantas vezes aparece a letra "A";
+  - Em que posição ela aparece a primeira vez;
+  - Em que posição ela aparece a última vez.
+
+#### Exercício 027
+
+Crie um programa que leia o nome completo de uma pessoa, mostrando o primeiro e o último nome separadamente.
+  - Exemplo "Ana Maria da Silva":
+    - Primeiro = Ana
+    - Último = Silva
+
+#### Exercício 028
+
+Crie um programa que ...
+
 ## Licença
 
  MIT
