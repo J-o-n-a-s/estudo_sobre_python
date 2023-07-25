@@ -206,7 +206,7 @@ Crie um programa que leia o nome completo de uma pessoa e mostre:
 
 #### Exercício 023
 
-Crie um programa que leia um número entre 0 e 9999 e mostre na tela cada um dos dígitos separados. Faça como string e também matematicamente.
+Crie um programa que leia um número entre 0 e 9999 e mostre na tela cada um dos dígitos separadamente.
   - Exemplo "1234":
      - Milhar = 1
      - Centena = 2
