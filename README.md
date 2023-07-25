@@ -237,6 +237,46 @@ Crie um programa que leia o nome completo de uma pessoa, mostrando o primeiro e 
 
 #### Exercício 028
 
+Crie um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+#### Exercício 029
+
+Crie um programa que leia a velocidade de m carro. Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por cada km acima do limite de velocidade.
+
+#### Exercício 030
+
+Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
+
+#### Exercício 031
+
+Crie um programa que pergunte a distância de uma viagem em km. Calcule o preço da passagem, cobrando R$ 0,50 por km para viagens de até 200 km e cobre R$ 0,45 para viagens mais longas.
+
+#### Exercício 032
+
+Crie um programa que leia um ano qualquer e mostre se ele é BISSEXTO ou não.
+
+#### Exercício 033
+
+Crie um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+#### Exercício 034
+
+Crie um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento será de 15%.
+
+#### Exercício 035
+
+Crie um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+#### Exercício 036
+
+Crie um programa que ...
+
+#### Exercício 037
+
+Crie um programa que ...
+
+#### Exercício 038
+
 Crie um programa que ...
 
 ## Licença
