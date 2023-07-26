@@ -279,6 +279,10 @@ Crie um programa que ...
 
 Crie um programa que ...
 
+#### Exercício 039
+
+Crie um programa que ...
+
 ## Licença
 
  MIT
