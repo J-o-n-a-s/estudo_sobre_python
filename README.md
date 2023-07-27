@@ -330,7 +330,7 @@ Crie um programa que calcule o valor a ser pago por um produto, considerando o s
   - À vista no dinheiro/cheque: 10% de desconto;
   - À vista no cartão de débito: 5% de desconto;
   - Em até 2x no cartão de crédito: Preço normal;
-  - 3x ou mais no cartão de crédito: 20% de juros.
+  - Em 3x ou mais no cartão de crédito: 20% de juros.
 
 #### Exercício 045
 
