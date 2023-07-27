@@ -197,7 +197,6 @@ Crie um programa que abra e reproduza o áudio de um arquivo MP3.
 #### Exercício 022
 
 Crie um programa que leia o nome completo de uma pessoa e mostre:
-
   - O nome com todas as letras maiúsculas;
   - O nome com todas as letras minúsculas;
   - Quantas letras têm ao todo;
@@ -269,23 +268,73 @@ Crie um programa que leia o comprimento de três retas e diga ao usuário se ela
 
 #### Exercício 036
 
-Crie um programa que ...
+Crie um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
 #### Exercício 037
 
-Crie um programa que ...
+Crie um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
+  - 1 para binário;
+  - 2 para octal;
+  - 3 para hexadecimal.
 
 #### Exercício 038
 
-Crie um programa que ...
+Crie um programa que leia dois números inteiros e compare-os, mostrando na tela uma mensagem:
+  - O primeiro valor é maior;
+  - O segundo valor é maior;
+  - Não existe valor maior, os dois são iguais.
 
 #### Exercício 039
 
-Crie um programa que ...
+Crie um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade:
+  - Se ele ainda vai se alistar ao serviço militar;
+  - Se é a hora de se alistar;
+  - Se já passou do tempo de alistamento.
+O programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
 #### Exercício 040
 
-Crie um programa que ...
+Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+  - Média abaixo de 5.0 = REPROVADO;
+  - Média entre 5.0 e 6.9 = RECUPERAÇÃO;
+  - Média 7.0 ou superior = APROVADO.
+
+#### Exercício 041
+
+A confederação nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+  - Até 9 anos = MIRIM;
+  - Até 14 anos = INFANTIL;
+  - Até 19 anos = JÚNIOR;
+  - Até 20 anos = SÊNIOR;
+  - Acima = MASTER.
+
+#### Exercício 042
+
+Refaça o exercício 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+  - Equilátero: Todos os lados iguais;
+  - Isósceles: Dois lados iguais;
+  - Escaleno: Todos os lados diferentes.
+
+#### Exercício 043
+
+Crie um programa que leia o peso e altura de uma pessoa, calcule o seu IMC e mostre seu status, de acordo com a tabela abaixo:
+  - Abaixo de 18.5: Abaixo do peso;
+  - Entre 18.5 e 25: Peso ideial;
+  - Entre 25 e 30: Sobrepeso;
+  - Entre 30 e 40: Obesidade;
+  - Acima de 40: Obesidade mórbida.
+
+#### Exercício 044
+
+Crie um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+  - À vista no dinheiro/cheque: 10% de desconto;
+  - À vista no cartão de débito: 5% de desconto;
+  - Em até 2x no cartão de crédito: Preço normal;
+  - 3x ou mais no cartão de crédito: 20% de juros.
+
+#### Exercício 045
+
+Crie um programa que faça o computador jogar JOKENPÔ com você.
 
 ## Licença
 
