@@ -336,6 +336,10 @@ Crie um programa que calcule o valor a ser pago por um produto, considerando o s
 
 Crie um programa que faça o computador jogar JOKENPÔ com você.
 
+#### Exercício 046
+
+Crie um programa que ...
+
 ## Licença
 
  MIT
