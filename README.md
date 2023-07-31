@@ -305,7 +305,7 @@ A confederação nacional de natação precisa de um programa que leia o ano de 
   - Até 9 anos = MIRIM;
   - Até 14 anos = INFANTIL;
   - Até 19 anos = JÚNIOR;
-  - Até 20 anos = SÊNIOR;
+  - Até 25 anos = SÊNIOR;
   - Acima = MASTER.
 
 #### Exercício 042
