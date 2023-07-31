@@ -346,7 +346,7 @@ Crie um programa que mostre mostre na tela todos os números pares que estão no
 
 #### Exercício 048
 
-Crie um programa que calcule a soma de todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500. Adicional: Deixe uma opção para o usuário escolher se deseja a soma de todos os valores impares ou pares.
+Crie um programa que calcule a soma de todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 
 #### Exercício 049
 
