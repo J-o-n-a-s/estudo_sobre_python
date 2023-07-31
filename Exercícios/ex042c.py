@@ -13,11 +13,9 @@ possivel_triangulo = reta_01 < (reta_02 + reta_03) and reta_02 < (reta_01 + reta
 print(f'É possivel montar um triângulo com as medidas {reta_01}, {reta_02} e {reta_03}?\n{possivel_triangulo}')
 
 if possivel_triangulo:
-    if reta_01 == reta_02 and reta_02 == reta_03:
+    if reta_01 == reta_02 == reta_03:
         print('O triângulo tem todos os lados iguais, ou seja, ele é EQUILÁTERO.')
-    elif reta_01 != reta_02 and reta_02 != reta_03 and reta_03 != reta_01:
+    elif reta_01 != reta_02 != reta_03 != reta_01:
         print('O triângulo tem todos os lados diferentes, ou seja, ele é ESCALENO.')
-    elif (reta_01 == reta_02 and reta_02 != reta_03) or  (reta_01 == reta_03 and reta_02 != reta_03) or (reta_02 == reta_03 and reta_01 != reta_02):
-        print('O triângulo tem dois lados iguais, ou seja, ele é ISÓSCELES.')
     else:
-        print('Essa mensagem nunca pode aparecer. Caso apareça, alguma coisa errada não está certa.')
+        print('O triângulo tem doiS lados iguais, ou seja, ele é ISÓSCELES.')
