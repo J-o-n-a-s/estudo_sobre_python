@@ -19,11 +19,11 @@ sleep(3)
 
 if imc < 18.5:
     print(f'Você está abaixo do seu peso ideal. Seu IMC deu {imc:.1f}.')
-elif imc >= 18.5 and imc < 25:
+elif 18.5 <= imc < 25:
     print(f'Você está no seu peso ideal. Seu IMC deu {imc:.1f}.')
-elif imc >= 25 and imc < 30:
+elif 25 <= imc < 30:
     print(f'Você está com sobrepeso. Seu IMC deu {imc:.1f}.')
-elif imc >= 30 and imc < 40:
+elif 30 <= imc < 40:
     print(f'Você está com obesidade. Seu IMC deu {imc:.1f}.')
 elif imc >= 40:
     print(f'Você está com obesidade mórbida. Seu IMC deu {imc:.1f}.')
