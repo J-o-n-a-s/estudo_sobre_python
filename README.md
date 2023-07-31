@@ -354,7 +354,7 @@ Refaça o desafio 009, mostrando a tabuada de um número que o usuário escolher
 
 #### Exercício 050
 
-Crie um programa que mostre seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o. Adicional: Deixe uma opção para o usuário escolher se deseja a soma de todos ímpares ou pares.
+Crie um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o. Adicional: Deixe uma opção para o usuário escolher se deseja a soma de todos ímpares ou pares.
 
 #### Exercício 051
 
