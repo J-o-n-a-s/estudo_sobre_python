@@ -13,9 +13,11 @@ ano_nascimento = int(input('Informe o ano de nascimento: '))
 ano_atual = date.today().year
 idade = ano_atual - ano_nascimento
 
+print(f'Quem nasceu em {ano_nascimento} têm {idade} anos em {ano_atual}.\n')
+
 if idade < 18:
-    print(f'Você tem {idade} anos e ainda não precisa se alistar.')
+    print(f'Você ainda não precisa se alistar, falta(m) {18 - idade} ano(s)')
 elif idade == 18:
-   print(f'Você tem {idade} anos e deve se alistar.')
+   print(f'Você completa ou completou {idade} anos e deve se alistar.')
 elif idade > 18:
-    print(f'Você tem {idade} anos e já passou do prazo de se alistar.')
+    print(f'Você já deveria ter se alistado há {idade - 18} ano(s).')
