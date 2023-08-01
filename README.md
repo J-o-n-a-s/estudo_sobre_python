@@ -390,6 +390,57 @@ Crie um programa que leia nome, idade e sexo de 4 pessoas. No final do programa,
   - Qual é o nome do homem mais velho;
   - Quantas mulheres têm menos de 20 anos.
 
+#### Exercício 057
+
+Crie um programa que leia o sexo de uma pessoa, mas só aceite os valores "M" ou "F". Caso esteja errado, peça a digitação novamente até ter um valor correto.
+
+#### Exercício 058
+
+Melhore o jogo do exercício 028 onde o computador vai "pensar" em número entre 0 e 10. Só que agora, o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+
+#### Exercício 059
+
+Crie um programa que leia 2 valores e mostre um menu na tela:
+
+  - [1] Somar;
+  - [2] Multiplicar;
+  - [3] Maior;
+  - [4] Novos números;
+  - [5] Sair do programa.
+
+Seu programa deverá realizar a operação solicitada em cada caso.
+
+#### Exercício 060
+
+Crie um programa que leia um número qualquer e mostre o seu fatorial (usando "for" e usando "while").
+
+Exemplo:
+  - 5! = 5 x 4 x 3 x 2 x 1 = 120.
+
+#### Exercício 061
+
+Refaça o exercício 051, lendo o primeiro termo e a razão de uma PA - Progressão Aritmética, mostrando os 10 primeiros termos da PA usando a estrutura "while".
+
+#### Exercício 062
+
+Melhore o exercício 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.
+
+#### Exercício 063
+
+Crie um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma Sequência de Fibonacci.
+
+Exemplo:
+
+  - 0 -> 1 -> 1 -> 2 -> 3 -> 8
+
+#### Exercício 064
+
+Crie um programa que leia vários numeros inteiro pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag de parada).
+
+#### Exercício 065
+
+Crie um programa que leia vários números inteiros no teclado pelo teclado. No final da excução, mostre a média entre todos os valores e qual foi o menor e o maior valor lido. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+
 ## Licença
 
  MIT
