@@ -20,8 +20,12 @@ selecionado = int(input(f'Pressione:\n > 1 para "{opcoes[0]}";\n > 2 para "{opco
 if not (selecionado == 1 or selecionado == 2 or selecionado == 3):
     print('Você selecionou uma opção inválida.')
 else:
-    print('ANALIZANDO...\n')
-    sleep(2)
+    print('JO')
+    sleep(0.8)
+    print('KEN')
+    sleep(0.8)
+    print('PÔ!!!')
+    sleep(0.6)
     if computador == selecionado:
         print('NÓS EMPATAMOS! Ninguém ganhou!')
     elif computador == 1 and selecionado == 3 or computador == 2 and selecionado == 1 or computador == 3 and selecionado == 2:
