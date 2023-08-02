@@ -431,7 +431,7 @@ Crie um programa que leia um número n inteiro qualquer e mostre na tela os n pr
 
 Exemplo:
 
-  - 0 -> 1 -> 1 -> 2 -> 3 -> 8
+  - 0 -> 1 -> 1 -> 2 -> 3 -> 5 -> 8
 
 #### Exercício 064
 
