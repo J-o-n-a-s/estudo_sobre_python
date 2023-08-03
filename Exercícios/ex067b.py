@@ -5,18 +5,14 @@ O programa será interrompido quando o número solicitado for negativo.
 
 while True:
     numero = int(input('Deseja ver a tabuada de qual valor? '))
-    contador = 0
     
     print('-' * 42)
 
     if numero < 0:
         break
     
-    while True:
+    for contador in range(0, 11):
         print(f'{numero} x {contador:2} = {numero * contador}')
-        contador += 1
-        if contador == 11:
-            break
     
     print('-' * 42)
 
