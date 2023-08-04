@@ -504,7 +504,12 @@ No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 
 #### Exercício 077
 
-Crie um programa que 
+Crie um programa que tenha uma tupla com várias palavras (Não usar acentos).
+Depois disso, você deve mostrar, para cada palavra, quais são as sua vogais.
+
+#### Exercício 078
+
+Crie um programa que ...
 
 ## Licença
 
