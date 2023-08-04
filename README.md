@@ -487,6 +487,11 @@ Crie uma tupla preenchida com os 20 primeiros colocados da tabela do campeonato 
 
 #### Exercício 074
 
+Crie um programa que vai gerar 5 números aleatórios e vai colocar numa tupla.
+Depois disso, mostre a listagem de números gerados e também indique o menos e o maior valor que estão na tupla.
+
+#### Exercício 075
+
 Crie um programa que 
 
 ## Licença
