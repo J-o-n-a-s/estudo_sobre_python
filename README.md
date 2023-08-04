@@ -499,6 +499,11 @@ Crie um programa que leia 4 valores pelo teclado e guarde-os em uma tupla. No fi
 
 #### Exercício 076
 
+Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência.
+No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+
+#### Exercício 077
+
 Crie um programa que 
 
 ## Licença
