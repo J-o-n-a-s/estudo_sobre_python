@@ -492,6 +492,13 @@ Depois disso, mostre a listagem de números gerados e também indique o menos e 
 
 #### Exercício 075
 
+Crie um programa que leia 4 valores pelo teclado e guarde-os em uma tupla. No final, mostre:
+  - Quantas vezes apareceu o valor 9;
+  - Em que posição foi digitado o primeiro valor;
+  - Quais foram os números pares.
+
+#### Exercício 076
+
 Crie um programa que 
 
 ## Licença
