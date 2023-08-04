@@ -474,6 +474,11 @@ Obs.: Considere que o caixa possui cédulas de R$ 50,00, R$ 20,00, R$ 10,00 e R$
 
 #### Exercício 072
 
+Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte.
+O programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
+
+#### Exercício 073
+
 Crie um programa que 
 
 ## Licença
