@@ -3,6 +3,8 @@ Crie um programa que tenha uma tupla com várias palavras (Não usar acentos).
 Depois disso, você deve mostrar, para cada palavra, quais são as sua vogais.
 '''
 
+vogais = 'AEIOU'
+
 palavras = (
     'APRENDER',
     'PROGRAMAR',
@@ -21,7 +23,6 @@ palavras = (
 for palavra in palavras:
     contador = 0
     numero_vogais = 0
-    vogais = 'AEIOU'
     for letra in palavra:
         if letra in vogais:
             numero_vogais += 1
