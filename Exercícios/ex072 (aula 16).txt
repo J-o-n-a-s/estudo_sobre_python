@@ -1,0 +1,23 @@
+Tuplas são imutáveis. Não pode tirar um elemento, nem colocar um novo elemento e nem modificar um elemento existente na tupla.
+Mas podemos deletar a tupla inteira, exemplo: del(nomes)
+
+nomes = ('Zezé', 'Carlos', 'Ana', 'Beatriz')
+print(nomes) => ('Zezé', 'Carlos', 'Ana', 'Beatriz')
+
+print(sorted(nomes)) => ['Ana', 'Beatriz', 'Carlos', 'Zezé']
+# "sorted" ordena as informações em ordem alfabética ou numérica
+
+print(len(nomes)) => 4
+# "len" mostra a quantidade de elementos da tupla
+
+
+MÉTODOS:
+
+print(nomes.count('Ana')) => 1
+# Retorna a quantidade de nomes "Ana" dentro da tupla
+
+print(nomes.count('Jonas')) => 0
+
+print(nomes.index('Ana')) => 2
+# Retorna a posição da palavra "Ana" que está dentro da tupla
+
