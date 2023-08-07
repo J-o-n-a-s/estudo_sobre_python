@@ -525,7 +525,20 @@ No final, mostre a lista ordenada na tela.
 
 #### Exercício 081
 
-Crie um programa 
+Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre:
+  - Quantos números foram digitados;
+  - A lista de valores ordenada de forma decrescente;
+  - Se o valor 5 foi digitado e está ou não na lista.
+
+#### Exercício 082
+
+Crie um programa que vai ler vários números e colocar em uma lista.
+Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente.
+Ao final, mostre o conteúdo das três listas geradas.
+
+#### Exercício 083
+
+Crie um programa onde o usuário digite uma expressão qualquer que us parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
 ## Licença
 
