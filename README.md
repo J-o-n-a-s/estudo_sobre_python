@@ -509,7 +509,23 @@ Depois disso, você deve mostrar, para cada palavra, quais são as sua vogais.
 
 #### Exercício 078
 
-Crie um programa que ...
+Crie um programa que leia 5 valores númericos e guarde em uma lista.
+No final, mostre qual foi o maior e o menor valor digitado e o suas respectivas posições na lista.
+
+#### Exercício 079
+
+Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista.
+Caso o número ja exista lá dentro, ele não será adicionado.
+No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
+
+#### Exercício 080
+
+Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()).
+No final, mostre a lista ordenada na tela.
+
+#### Exercício 081
+
+Crie um programa 
 
 ## Licença
 
