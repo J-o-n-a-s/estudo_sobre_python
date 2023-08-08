@@ -538,7 +538,7 @@ Ao final, mostre o conteúdo das três listas geradas.
 
 #### Exercício 083
 
-Crie um programa onde o usuário digite uma expressão qualquer que us parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
 ## Licença
 
