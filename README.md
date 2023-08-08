@@ -540,6 +540,17 @@ Ao final, mostre o conteúdo das três listas geradas.
 
 Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
+#### Exercício 084
+
+Crie um programa que leia o nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
+  - Quantas pessoas foram cadastradas;
+  - Uma listagem com as pessoas mais pesadas;
+  - Uma listagem com as pessoas mais leves.
+
+#### Exercício 085
+
+Crie um programa
+
 ## Licença
 
  MIT
