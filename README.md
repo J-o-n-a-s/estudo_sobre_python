@@ -591,7 +591,7 @@ Observação:
   - Uma lista compostas que conterá todas as informações dos alunos;
   - Dentro da lista principal conterá uma lista que contém o nome do aluno e uma lista com as duas notas. Exemplo:
 
-  [['Aluno1', [nota1, nota2]], ['Aluno2', [nota1, nota2]], ['Aluno3', [nota1, nota2]]]
+  [['Aluno1', [nota1, nota2], média], ['Aluno2', [nota1, nota2], média], ['Aluno3', [nota1, nota2], média]]
 
 ## Licença
 
