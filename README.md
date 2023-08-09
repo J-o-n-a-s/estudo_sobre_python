@@ -568,7 +568,7 @@ Aprimore o exercício 087, mostrando no final:
   - A soma dos valores da primeira linha;
   - A soma dos valores da segunda linha;
   - A soma dos valores da terceira linha;
-  - O menor e o maor valor de cada linha;
+  - O menor e o maior valor de cada linha;
   - O menor e o maior valor de cada coluna;
   - O valor média da matriz;
   - O valor média de cada linha;
