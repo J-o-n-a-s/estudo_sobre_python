@@ -574,6 +574,25 @@ Aprimore o exercício 087, mostrando no final:
   - O valor média de cada linha;
   - O valor média de cada coluna.
 
+#### Exercício 088
+
+Crie um programa que ajude um jogador da Mega Sena a criar palpites.
+O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
+Observações:
+  - Não podem ter números repetido dentro do mesmo jogo;
+  - Os jogos devem ser apresentados com os números em ordem crescente;
+  - Adicionar um delay para apresentar cada um dos jogos.
+
+#### Exercício 089
+
+Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta.
+No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
+Observação:
+  - Uma lista compostas que conterá todas as informações dos alunos;
+  - Dentro da lista principal conterá uma lista que contém o nome do aluno e uma lista com as duas notas. Exemplo:
+
+  [['Aluno1', [nota1, nota2]], ['Aluno2', [nota1, nota2]], ['Aluno3', [nota1, nota2]]]
+
 ## Licença
 
  MIT
