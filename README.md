@@ -552,6 +552,28 @@ Crie um programa que leia o nome e peso de várias pessoas, guardando tudo em um
 Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares.
 No final mostre os valores pares e ímpares em ordem crescente.
 
+#### Exercício 086
+
+Crie um programa que crie uma matriz de dimensões 3x3 e preencha com valores lidos pelo teclado.
+No final, mostre a matriz na tela, com a formatação correta.
+
+#### Exercício 087
+
+Aprimore o exercício 087, mostrando no final:
+  - A soma de todos os valores pares digitados;
+  - A soma de todos os valores ímpares digitados;
+  - A soma dos valores da primeira coluna;
+  - A soma dos valores da segunda coluna;
+  - A soma dos valores da terceira coluna;
+  - A soma dos valores da primeira linha;
+  - A soma dos valores da segunda linha;
+  - A soma dos valores da terceira linha;
+  - O menor e o maor valor de cada linha;
+  - O menor e o maior valor de cada coluna;
+  - O valor média da matriz;
+  - O valor média de cada linha;
+  - O valor média de cada coluna.
+
 ## Licença
 
  MIT
