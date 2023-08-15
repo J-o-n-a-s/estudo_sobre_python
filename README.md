@@ -632,7 +632,19 @@ Crie um programa que tenha uma função chamada área(), que receba as dimensõe
 
 #### Exercício 097
 
-Crie um programa que 
+Crie um programa que tenha a função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+
+Ex:
+
+  escreva('Olá, mundo!')
+  
+  Saída:
+  
+ ```
+ =============
+  Olá, mundo!
+ =============
+ ```
 
 ## Licença
 
