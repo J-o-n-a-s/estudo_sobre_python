@@ -661,6 +661,10 @@ Crie um programa que uma função maior(), que receba vários parâmetros com va
 
 Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
+#### Exercício 100
+
+Crie um programa que tenha uma lista chamada números e duas funções sorteio() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
+
 ## Licença
 
  MIT
