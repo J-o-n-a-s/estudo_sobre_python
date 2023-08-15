@@ -626,6 +626,14 @@ Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os da
 
 Aprimore o desafio 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes de aproveitamento de cada jogador.
 
+#### Exercício 096
+
+Crie um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+
+#### Exercício 097
+
+Crie um programa que 
+
 ## Licença
 
  MIT
