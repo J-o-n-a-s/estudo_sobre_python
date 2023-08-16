@@ -628,11 +628,11 @@ Aprimore o desafio 093 para que ele funcione com vários jogadores, incluindo um
 
 #### Exercício 096
 
-Crie um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+Crie um programa que tenha uma função chamada ```área()```, que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
 #### Exercício 097
 
-Crie um programa que tenha a função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+Crie um programa que tenha a função chamada ```escreva()```, que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
 
 Ex:
 
@@ -648,7 +648,7 @@ Ex:
 
 #### Exercício 098
 
-Crie um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo e realize a contagem.
+Crie um programa que tenha uma função chamada ```contador()```, que receba três parâmetros: início, fim e passo e realize a contagem.
 
 Seu programa tem que realizar três contagens através da função citada:
   - De 1 até 10, de 1 em 1;
@@ -657,13 +657,29 @@ Seu programa tem que realizar três contagens através da função citada:
 
 #### Exercício 099
 
-Crie um programa que tenha uma função maior(), que receba vários parâmetros com valores inteiros.
+Crie um programa que tenha uma função ```maior()```, que receba vários parâmetros com valores inteiros.
 
 Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
 #### Exercício 100
 
-Crie um programa que tenha uma lista chamada números e duas funções sorteio() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
+Crie um programa que tenha uma lista chamada números e duas funções ```sorteio()``` e ```somaPar()```. A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
+
+#### Exercício 101
+
+Crie um programa que tenha uma função chamada ```voto()``` que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL ou OBRIGATÓRIO nas eleições.
+
+Obs.: Com 16, 17 e acima de 65 anos, o voto é OPCIONAL.
+
+#### Exercício 102
+
+Crie um programa que tenha uma função ```fatorial()``` que receba dois parâmetros:
+  - O primeiro que chamado ```numero``` que indique o valor para calcular;
+  - O segundo chamado ```show``` que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+
+#### Exercício 103
+
+Crie um programa que 
 
 ## Licença
 
