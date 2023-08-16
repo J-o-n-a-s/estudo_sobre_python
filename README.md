@@ -657,7 +657,7 @@ Seu programa tem que realizar três contagens através da função citada:
 
 #### Exercício 099
 
-Crie um programa que uma função maior(), que receba vários parâmetros com valores inteiros.
+Crie um programa que tenha uma função maior(), que receba vários parâmetros com valores inteiros.
 
 Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
