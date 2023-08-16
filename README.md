@@ -694,6 +694,23 @@ Crie um programa que tenha a função ```leiaInt()```, que vai funcionar de form
 Ex.:
   - ```numero = leiaInt('Digite um número: ')```
 
+#### Exercício 105
+
+Crie um programa que tenha uma função ```notas()``` que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
+  - Quantidade de notas;
+  - A maior nota;
+  - A menor nota;
+  - A média da turma;
+  - A situação (opcional).
+
+Adicione também as docstrings da função.
+
+#### Exercício 106
+
+Crie um mini-sistema que utilize o Interactive Help do Pythohn. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra "FIM", o mini-sistema se encerrará.
+
+Obs.: Utilize cores em seu mini-sistema.
+
 ## Licença
 
  MIT
