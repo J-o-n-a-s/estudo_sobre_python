@@ -677,9 +677,17 @@ Crie um programa que tenha uma função ```fatorial()``` que receba dois parâme
   - O primeiro que chamado ```numero``` que indique o valor para calcular;
   - O segundo chamado ```show``` que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
 
+Obs.: Deverá ser implementado também a docstring na função para apresentar com a função ```help()```.
+
 #### Exercício 103
 
-Crie um programa que 
+Crie um programa que tenha uma função chamada ```ficha()```, que receba dois parâmetros opcionais:
+  - O nome de um jogador;
+  - Quantos gols ele marcou.
+
+O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
+
+
 
 ## Licença
 
