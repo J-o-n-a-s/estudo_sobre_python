@@ -674,7 +674,7 @@ Obs.: Com 16, 17 e acima de 65 anos, o voto é OPCIONAL.
 #### Exercício 102
 
 Crie um programa que tenha uma função ```fatorial()``` que receba dois parâmetros:
-  - O primeiro que chamado ```numero``` que indique o valor para calcular;
+  - O primeiro chamado ```numero``` que indique o valor para calcular;
   - O segundo chamado ```show``` que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
 
 Obs.: Deverá ser implementado também a docstring na função para apresentar com a função ```help()```.
