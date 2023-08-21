@@ -728,6 +728,13 @@ Crie um mini-sistema que utilize o Interactive Help do Pythohn. O usuário vai d
 
 Obs.: Utilize cores em seu mini-sistema.
 
+#### Exercício 107
+
+Crie um módulo chamado moeda.py que tenha as funções incorporadas ```aumentar()```, ```diminuir()```, ```dobro()``` e ```metade()```.
+Faça também um programa que importe esse módulo e use algumas dessas funções.
+
+
+
 ## Licença
 
  MIT
