@@ -367,7 +367,7 @@ Crie um programa que calcule a soma de todos os números ímpares que são múlt
 
 #### Exercício 049
 
-Refaça o desafio 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+Refaça o exercício 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
 #### Exercício 050
 
@@ -641,7 +641,7 @@ Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os da
 
 #### Exercício 095
 
-Aprimore o desafio 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes de aproveitamento de cada jogador.
+Aprimore o exercício 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes de aproveitamento de cada jogador.
 
 #### Exercício 096
 
@@ -735,11 +735,11 @@ Faça também um programa que importe esse módulo e use algumas dessas funçõe
 
 #### Exercício 108
 
-Adapte o código do desafio 107, criando uma função adicional chamada ```moeda()``` que consiga mostra os valores como um valor monetário formatado.
+Adapte o código do exercício 107, criando uma função adicional chamada ```moeda()``` que consiga mostra os valores como um valor monetário formatado.
 
 #### Exercício 109
 
-Modifique as funções que foram criadas no exercício 107 para que elas aceitem um parâmetro a mais informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvido no desafio 108.
+Modifique as funções que foram criadas no exercício 107 para que elas aceitem um parâmetro a mais informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvido no exercício 108.
 
 #### Exercício 110
 
@@ -747,8 +747,12 @@ Adicione ao módulo ```moeda()``` criado nos exercícios anteriores, uma funçã
 
 #### Exercício 111
 
-Crie um pacote chamado utilidadesCeV que tenha dois módulos interno chamados moeda e dado.
-Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
+Crie um pacote chamado ```utilidadesCeV``` que tenha dois módulos interno chamados ```moeda``` e ```dado```.
+Transfira todas as funções utilizadas nos exercícios 107, 108, 109 e 110 para o primeiro pacote e mantenha tudo funcionando.
+
+#### Exercício 112
+
+Dentro do pacote ```utilidadesCEV``` que criamos no exercício 111, temos um módulo chamado ```dado```. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
 
 ## Licença
 
