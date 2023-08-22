@@ -752,7 +752,7 @@ Transfira todas as funções utilizadas nos exercícios 107, 108, 109 e 110 para
 
 #### Exercício 112
 
-Dentro do pacote ```utilidadesCEV``` que criamos no exercício 111, temos um módulo chamado ```dado```. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
+Dentro do pacote ```utilidadesCEV``` que criamos no exercício 111, temos um módulo chamado ```dado```. Crie uma função chamada ```leiaDinheiro()``` que seja capaz de funcionar como a função ```input()```, mas com uma validação de dados para aceitar apenas valores que sejam monetários.
 
 ## Licença
 
