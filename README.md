@@ -745,6 +745,11 @@ Modifique as funções que foram criadas no exercício 107 para que elas aceitem
 
 Adicione ao módulo ```moeda()``` criado nos exercícios anteriores, uma função chamada ```resumo()```, que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
 
+#### Exercício 111
+
+Crie um pacote chamado utilidadesCeV que tenha dois módulos interno chamados moeda e dado.
+Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
+
 ## Licença
 
  MIT
