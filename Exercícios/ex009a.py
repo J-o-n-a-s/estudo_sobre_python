@@ -1,3 +1,7 @@
+'''
+Crie um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+'''
+
 tabuada = int(input('De qual número quer a tabuada? '))
 print(f'{tabuada} x {0:2} = {tabuada * 0}')
 print(f'{tabuada} x {1:2} = {tabuada * 1}')
