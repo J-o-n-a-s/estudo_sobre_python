@@ -1,3 +1,7 @@
+'''
+Crie um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+'''
+
 dado = input('Digite algo: ')
 print(f'O tipo primitivo é: {type(dado)}') # O "input" sempre retorna tipo "str"
 print(f'O valor digitado é númérico? {dado.isnumeric()}')
