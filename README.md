@@ -724,7 +724,7 @@ Adicione também as docstrings da função.
 
 #### Exercício 106
 
-Crie um mini-sistema que utilize o Interactive Help do Pythohn. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra "FIM", o mini-sistema se encerrará.
+Crie um mini-sistema que utilize o Interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra "FIM", o mini-sistema se encerrará.
 
 Obs.: Utilize cores em seu mini-sistema.
 
