@@ -1,6 +1,7 @@
 '''
-Adapte o código do desafio 107, criando uma função adicional chamada moeda()
-que consiga mostrar os valores como um valor monetário formatado.
+Modifique as funções que foram criadas no exercício 107 para que elas aceitem um parâmetro a mais,
+informando se o valor retornado por elas vai ser ou não formatado pela função moeda,
+desenvolvido no exercício 108.
 '''
 
 from moeda import aumentar, diminuir, dobro, metade, moeda
