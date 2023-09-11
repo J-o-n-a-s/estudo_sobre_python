@@ -754,6 +754,20 @@ Transfira todas as funções utilizadas nos exercícios 107, 108, 109 e 110 para
 
 Dentro do pacote ```utilidadesCEV``` que criamos no exercício 111, temos um módulo chamado ```dado```. Crie uma função chamada ```leiaDinheiro()``` que seja capaz de funcionar como a função ```input()```, mas com uma validação de dados para aceitar apenas valores que sejam monetários.
 
+#### Exercício 113
+
+Reescreva a função ```leiaInt()``` que fizemos no exercício 104, incluindo agora a possibilidade da digitação de um número de tipo inválido.
+Aproveite e crie também uma função ```leiaFloat()``` com a mesma funcionalidade.
+
+#### Exercício 114
+
+Crie um código em Python que teste se o site Pudim está acessível pelo computador usado.
+
+#### Exercício 115
+
+Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo de texto simples.
+O sistema só vai ter 2 opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.
+
 ## Licença
 
  MIT
