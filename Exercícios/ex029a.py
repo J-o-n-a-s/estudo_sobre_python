@@ -1,3 +1,9 @@
+'''
+Crie um programa que leia a velocidade de m carro.
+Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado.
+A multa vai custar R$ 7,00 por cada km acima do limite de velocidade.
+'''
+
 limite = 80
 valor_multa = 7.00
 velocidade = float(input("Digite a velocidade atual do carro: "))
