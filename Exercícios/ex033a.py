@@ -1,3 +1,7 @@
+'''
+Crie um programa que leia três números e mostre qual é o maior e qual é o menor.
+'''
+
 numero_01 = float(input('Digite o primeiro número: '))
 numero_02 = float(input('Digite o segundo número: '))
 numero_03 = float(input('Digite o terceiro número: '))
