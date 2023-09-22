@@ -761,7 +761,7 @@ Aproveite e crie também uma função ```leiaFloat()``` com a mesma funcionalida
 
 #### Exercício 114
 
-Crie um código em Python que teste se o site Pudim está acessível pelo computador usado.
+Crie um código em Python que teste se o site Progbin está acessível pelo computador usado.
 
 #### Exercício 115
 
