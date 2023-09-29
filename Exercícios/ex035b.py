@@ -1,3 +1,7 @@
+'''
+Crie um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+'''
+
 reta_01 = float(input('Digite o tamanho da primeiro reta: '))
 reta_02 = float(input('Digite o tamanho da segundo reta: '))
 reta_03 = float(input('Digite o tamanho da terceiro reta: '))
